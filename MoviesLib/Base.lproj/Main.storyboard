@@ -27,7 +27,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="230" id="qKR-Fl-Lmn"/>
                                 </constraints>
-                                <variation key="heightClass=compact">
+                                <variation key="heightClass=compact" image="logan-poster">
                                     <mask key="constraints">
                                         <include reference="qKR-Fl-Lmn"/>
                                     </mask>
@@ -178,6 +178,7 @@
     </scenes>
     <resources>
         <image name="gradient" width="320" height="66"/>
+        <image name="logan-poster" width="1200" height="1773"/>
         <image name="logan-wide" width="800" height="500"/>
         <image name="play" width="53" height="53"/>
     </resources>
